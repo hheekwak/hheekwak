@@ -3,13 +3,13 @@
 </div>
 
 - 👋 Hi, I’m HHee Kwak
-- 👀 I’m interested in Data Science & Computer Science
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Autonomous Vehicle Industry
 - 💞️ I’m looking to collaborate on Data Engineers
-- 📫 How to reach me - hheekwak@???
+- 📫 How to reach me - hheekwak at gmail dot com
 
 <div id="badges">
-  <a href="https://https://sites.google.com/view/hyunhee-kwak-ms/ ">
+  <a href="https://sites.google.com/view/hyunhee-kwak-ms/about-me?authuser=1">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/">
