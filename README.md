@@ -9,7 +9,7 @@
 - 📫 How to reach me - hheekwak at gmail dot com
 
 <div id="badges">
-  <a href="https://sites.google.com/view/hyunhee-kwak-ms/about-me?authuser=1">
+  <!--- <a href="https://sites.google.com/view/hyunhee-kwak-ms/about-me?authuser=1"> --->
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hyunheekwak/">
