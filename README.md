@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m HHee Kwak
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Autonomous Vehicle Industry
-- 💞️ I’m looking to collaborate on Data Engineers
+- 👋 Hi, I’m Hyunhee Kwak [hee-o-nee kwok]
+- 👀 I’m interested in Autonomous Vehicle Industry
+- 🌱 I’m currently research on Real-time Operating System
+- 💞️ I’m looking to collaborate on any fun autonomous projects
 - 📫 How to reach me - hheekwak at gmail dot com
 
 <div id="badges">
