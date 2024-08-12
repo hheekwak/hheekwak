@@ -3,8 +3,8 @@
 </div>
 
 - 👋 Hi, I’m Hyunhee Kwak [hee-o-nee kwok]
-- 👀 I’m interested in Autonomous Vehicle Industry
-- 🌱 I’m currently research on Real-time Operating System
+- 👀 I’m interested in Aviation and Autonomous Vehicle Industry
+- 🌱 I’m currently researching on Real-time Operating System
 - 💞️ I’m looking to collaborate on any fun autonomous projects
 - 📫 How to reach me - hheekwak at gmail dot com
 
