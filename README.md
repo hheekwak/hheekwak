@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m Hyunhee Kwak [hee-o-nee kwok]
+- 👋 Hi, I’m Hyunhee Kwak [hee-uh-nee kwok]
 - 👀 I’m interested in Real-time, Embedded and Autonomous Projects
 - 🌱 I’m currently researching on Real-time Operating System
 - 💞️ I’m looking to collaborate on any fun autonomous projects
